@@ -3,6 +3,8 @@
     <types>
         <members>A</members>
         <members>A0</members>
+        <members>MySampleClass</members>
+        <members>MyScheduledJob</members>
         <name>ApexClass</name>
     </types>
 </Package>
