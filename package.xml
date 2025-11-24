@@ -5,6 +5,8 @@
         <members>A0</members>
         <members>A00000IhBYfIP</members>
         <members>A00000hyltBcgXA</members>
+        <members>AgentforceHomepageController</members>
+        <members>AgentforceHomepageControllerTest</members>
         <members>MySampleClass</members>
         <name>ApexClass</name>
     </types>
