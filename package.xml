@@ -4,7 +4,14 @@
         <members>A</members>
         <members>A0</members>
         <members>MySampleClass</members>
-        <members>MyScheduledJob</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>testobject1__c.emaiulcustomfield__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>testobject1__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
