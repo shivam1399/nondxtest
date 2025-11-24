@@ -8,6 +8,8 @@
         <members>AgentforceHomepageController</members>
         <members>AgentforceHomepageControllerTest</members>
         <members>MySampleClass</members>
+        <members>StatsUtil</members>
+        <members>StatsUtilTest</members>
         <name>ApexClass</name>
     </types>
     <types>
