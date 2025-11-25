@@ -7,6 +7,7 @@
         <members>A00000hyltBcgXA</members>
         <members>AgentforceHomepageController</members>
         <members>AgentforceHomepageControllerTest</members>
+        <members>LargeStringUtility</members>
         <members>MySampleClass</members>
         <members>StatsUtil</members>
         <members>StatsUtilTest</members>
