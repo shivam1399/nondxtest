@@ -13,7 +13,7 @@ public with sharing class AgentforceHomepageController {
           return '/servlet/servlet.ImageServer?id=' + doc.Id + '&oid=' + UserInfo.getOrganizationId();
        }  catch (Exception e) {
           // Handle exceptions and return null if the file is not found
-         System.debug('Error retrieving file ID: ' + e.getMessage());
+         System.error('Error retrieving file ID: ' + e.getMessage());
          return null;
         }
     }
