@@ -149,7 +149,7 @@ public class LargeStringUtility {
     // ==============================
     public static String findLongestString() {
         if (stringList.isEmpty()) {
-            return 'No Data';
+            return 'No Data found';
         }
         String longest = stringList[0];
         for (String s : stringList) {
