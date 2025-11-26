@@ -1,7 +1,7 @@
 public class A implements Schedulable {
     public void execute(SchedulableContext sc) {
         // Your scheduled job logic here
-        System.debug('Scheduled job is executing.');
+        System.error('Scheduled job is executing.');
         
         // Example logic: You can add real logic like updating records
     }
